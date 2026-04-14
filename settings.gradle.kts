@@ -1,1 +1,1 @@
-rootProject.name = "CLI-Project"
+rootProject.name = "CLItest"
