@@ -1,4 +1,4 @@
-package com;
+package com.util;
 
 public class Rq {
     private String cmd;
@@ -17,10 +17,6 @@ public class Rq {
         } else {
             param = "";
         }
-    }
-
-    public String getCmd() {
-        return cmd;
     }
 
     public String getActionName() {

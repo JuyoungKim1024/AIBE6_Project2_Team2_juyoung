@@ -1,4 +1,4 @@
-package com;
+package com.domain.article;
 
 public class Article {
     private int id;
